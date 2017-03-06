@@ -21,3 +21,13 @@ Height of multiplication table: 8
   7  14  21  28  35  42  49  56  63  70
   8  16  24  32  40  48  56  64  72  80
 """
+print (" 1   2   3   4     5    6    7    8    9   10")
+print (" 2   4   6   8    10   12   14   16   18   20")
+print (" 3   6   9   12   15   18   21   24   27   30")
+print (" 4
+print (" 5
+print (" 6
+print (" 7
+print (" 8
+print (" 9
+print (" 10
