@@ -10,3 +10,7 @@ height = input (int("Multiplication table height"))
 [ 8   16  24  32   40   48   56   64   72   80]
 [ 9   18  24  32   45   54   63   72   81   90]
 [ 10  20  30  40   50   60   70   80   90   100]
+if width <= 
+
+"when width equals 'blank' print up to that place in the list, when height equals blank print the row"
+"something with ranges and looping for sure"
